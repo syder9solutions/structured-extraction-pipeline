@@ -1,0 +1,8 @@
+RECEIPT
+Coffee Shop
+Date: 2026-03-02
+Currency: USD
+Latte  1 x 4.50 = 4.50
+Subtotal: 4.50 USD
+Tax: 0.00 USD
+Total: 4.50 USD

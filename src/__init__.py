@@ -1,0 +1,1 @@
+"""Structured extraction pipeline package."""
