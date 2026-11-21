@@ -1,4 +1,4 @@
-# Project 06 — Structured Extraction Pipeline
+# Structured Extraction Pipeline
 
 Schema-locked invoice/receipt extraction with a bounded validation → repair
 loop, per-field confidence scoring with human-review routing, hallucination
